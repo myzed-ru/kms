@@ -1,0 +1,8 @@
+version: "3.7"
+services:
+  kms-lcg:
+    container_name: kms-lcg
+    image: gitlab.lcgs.ru/devops/kms-lcg:latest 
+    ports:
+      - "1688:1688"
+    restart: always
