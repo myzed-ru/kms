@@ -1,6 +1,6 @@
-# kms-lcg
+# kms
 
-Local KMS server from https://github.com/Wind4/vlmcsd
+Local KMS server took from https://github.com/Wind4/vlmcsd
 
 ## Getting started
 ```shell
