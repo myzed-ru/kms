@@ -10,6 +10,8 @@ cd kms
 docker build -t myzedru/kms:latest .
 
 docker push myzedru/kms:latest
+
+docker run -d -p 1688:1688  myzedru/kms:latest
 ```
 
 
