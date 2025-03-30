@@ -1,6 +1,6 @@
 version: "3.7"
 services:
-  kms-lcg:
+  kms-myzedru:
     container_name: kms
     image: myzedru/kms:latest
     ports:
